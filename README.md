@@ -36,5 +36,3 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 ## License
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Feel free to update the screenshot path, live demo link, and any other details to match your actual project! Let me know if you want further customization or help with any section.
