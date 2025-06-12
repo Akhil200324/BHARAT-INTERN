@@ -1,6 +1,3 @@
-Absolutely! Here is a Markdown-ready version of an improved README.md that you can copy and paste directly into your file:
-
-```markdown
 # netflix-clone-live
 
 ## Overview
@@ -22,7 +19,6 @@ A responsive Netflix clone built as part of an internship project. This applicat
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Akhil200324/BHARAT-INTERN.git
-   ```
 2. **Navigate to the project directory:**
    ```bash
    cd BHARAT-INTERN
